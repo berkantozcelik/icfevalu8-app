@@ -1,0 +1,60 @@
+[
+    {
+        "ID": "P778304",
+        "Hasta Adı": "ku ku",
+        "Age": 30,
+        "Gender": "Kadın",
+        "Tanı": "",
+        "Tarih": "26.11.2025",
+        "Foto": null,
+        "icf": {
+            "sel_struct": [],
+            "sel_func": [],
+            "sel_act": [],
+            "sel_part": [],
+            "sel_env": [],
+            "sel_pers": [],
+            "notes_db": {},
+            "qualifiers_db": {},
+            "current_icd": "C71 (Beyin Malign Neoplazmı)"
+        }
+    },
+    {
+        "ID": "123",
+        "Hasta Adı": "Dayı Oğlu",
+        "Age": 30,
+        "Gender": "Kadın",
+        "Tanı": "",
+        "Tarih": "26.11.2025",
+        "Foto": null,
+        "icf": {
+            "sel_struct": [
+                "s130 - Meninkslerin (beyin zarlarının) yapısı",
+                "s160 - Kranial (kafa sinirleri) sinirlerin yapısı"
+            ],
+            "sel_func": [],
+            "sel_act": [],
+            "sel_part": [],
+            "sel_env": [],
+            "sel_pers": [],
+            "notes_db": {
+                "note_s130 - Meninkslerin (beyin zarlarının) yapısı": "efewfew",
+                "note_s160 - Kranial (kafa sinirleri) sinirlerin yapısı": ""
+            },
+            "qualifiers_db": {
+                "qual_s130 - Meninkslerin (beyin zarlarının) yapısı": "8 - Belirtilmemiş",
+                "qual_s160 - Kranial (kafa sinirleri) sinirlerin yapısı": "0 - Sorun Yok"
+            },
+            "current_icd": "D33 (Beyin ve MSS Benign Neoplazmı)"
+        }
+    },
+    {
+        "ID": "P1764194154",
+        "Hasta Adı": "Sevgi Can",
+        "Age": 30,
+        "Gender": "Kadın",
+        "Tanı": "C71 (Beyin Malign Neoplazmı)",
+        "Tarih": "26.11.2025",
+        "Foto": null
+    }
+]

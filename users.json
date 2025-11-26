@@ -1,0 +1,14 @@
+[
+    {
+        "email": "demo@icf.com",
+        "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "clinic_name": "ICFevalu8 Demo",
+        "clinician_name": "Fzt. Kullanıcı"
+    },
+    {
+        "clinic_name": "BerkantClinic",
+        "clinician_name": "Berkant Özçelik",
+        "email": "berkantanilozcelik@gmail.com",
+        "password": "7a3bcb415aed4649c4aab7d70bea1fad2d2407ab02c4e9467313580982e43238"
+    }
+]

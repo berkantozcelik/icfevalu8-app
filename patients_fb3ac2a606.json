@@ -1,0 +1,94 @@
+[
+    {
+        "ID": "102",
+        "Hasta Adı": "Cem Yılmaz",
+        "Tanı": "M54 (Bel Ağrısı)",
+        "Tarih": "24.11.2025",
+        "Age": 51,
+        "Gender": "Erkek",
+        "Foto": null
+    },
+    {
+        "ID": "101",
+        "Hasta Adı": "Adam Sandler",
+        "Tanı": "G20 (Parkinson)",
+        "Tarih": "25.11.2025",
+        "Age": 56,
+        "Gender": "Erkek",
+        "Foto": null
+    },
+    {
+        "ID": "PDEM01",
+        "Hasta Adı": "Ayşe Yılmaz",
+        "Tanı": "I63 (İnme/Serebral enfarktüs)",
+        "Tarih": "15.02.2026",
+        "Age": 62,
+        "Gender": "Kadın",
+        "Foto": null,
+        "icf": {
+            "sel_struct": [
+                "s110 - Beyin",
+                "s730 - Üst ekstremite yapıları"
+            ],
+            "sel_func": [
+                "b730 - Kas gücü fonksiyonları",
+                "b760 - Kas kontrol fonksiyonları",
+                "b710 - Eklem mobilite fonksiyonları"
+            ],
+            "sel_act": [
+                "d410 - Duruşu değiştirme",
+                "d450 - Yürüme",
+                "d510 - Yıkanma"
+            ],
+            "sel_part": [
+                "d540 - Kişisel bakım",
+                "d920 - Eğlence ve boş zaman"
+            ],
+            "sel_env": [
+                "e115 - Kişisel kullanım için ürün ve teknoloji",
+                "e310 - Yakın aile",
+                "e355 - Sağlık profesyonelleri"
+            ],
+            "sel_pers": [
+                "pf - Kişisel faktörler"
+            ],
+            "notes_db": {
+                "note_s110 - Beyin": "İskemik lezyon MCA sağ; görüntülemede doğrulandı.",
+                "note_s730 - Üst ekstremite yapıları": "Sol omuz/dirsek çevresinde ödem ve hareket kısıtı.",
+                "note_b730 - Kas gücü fonksiyonları": "Sol üst ve alt ekstremitede 3/5.",
+                "note_b760 - Kas kontrol fonksiyonları": "Ton değişimleri; spastisite hafif.",
+                "note_b710 - Eklem mobilite fonksiyonları": "Sol omuz abdüksiyon kısıtlı, ağrısız.",
+                "note_d410 - Duruşu değiştirme": "Destekle yatak içi dönme yapabiliyor.",
+                "note_d450 - Yürüme": "Yürüme mesafesi 20 m; baston ile.",
+                "note_d510 - Yıkanma": "Gözetimle duş alıyor.",
+                "note_d540 - Kişisel bakım": "Giyinme altına yardıma ihtiyaç duyuyor.",
+                "note_d920 - Eğlence ve boş zaman": "Sosyal katılım kısıtlı; aile desteği var.",
+                "note_e115 - Kişisel kullanım için ürün ve teknoloji": "Baston ve ayak bileği ortezi mevcut.",
+                "note_e310 - Yakın aile": "Aile motivasyonu yüksek.",
+                "note_e355 - Sağlık profesyonelleri": "Fizyoterapi ekibi haftada 3 gün.",
+                "note_pf - Kişisel faktörler": "Motivasyonu yüksek, hedef odaklı."
+            },
+            "qualifiers_db": {
+                "qual_s110 - Beyin": "3 - Ciddi",
+                "qual_s730 - Üst ekstremite yapıları": "2 - Orta",
+                "qual_b730 - Kas gücü fonksiyonları": "2 - Orta",
+                "qual_b760 - Kas kontrol fonksiyonları": "2 - Orta",
+                "qual_b710 - Eklem mobilite fonksiyonları": "2 - Orta",
+                "qual_d410 - Duruşu değiştirme": "2 - Orta",
+                "qual_d450 - Yürüme": "3 - Ciddi",
+                "qual_d510 - Yıkanma": "2 - Orta",
+                "qual_d540 - Kişisel bakım": "3 - Ciddi",
+                "qual_d920 - Eğlence ve boş zaman": "2 - Orta",
+                "type_e115 - Kişisel kullanım için ürün ve teknoloji": "Bariyer",
+                "score_e115 - Kişisel kullanım için ürün ve teknoloji": "2 (Orta)",
+                "type_e310 - Yakın aile": "Bariyer",
+                "score_e310 - Yakın aile": "3 (Ciddi)",
+                "type_e355 - Sağlık profesyonelleri": "Bariyer",
+                "score_e355 - Sağlık profesyonelleri": "2 (Orta)",
+                "type_pf - Kişisel faktörler": "Bariyer",
+                "score_pf - Kişisel faktörler": "0"
+            },
+            "current_icd": "C71 (Beyin Malign Neoplazmı)"
+        }
+    }
+]
